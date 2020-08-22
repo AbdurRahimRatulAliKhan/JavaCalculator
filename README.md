@@ -1,5 +1,4 @@
 # Java-Calculator
-Java Calculator
 Basic level of Java project that executes the mathematical calculations.
 
 IDE: NetBeans
